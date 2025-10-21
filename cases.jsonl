@@ -1,0 +1,5 @@
+{"timestamp": 1760800442.283218, "filename": "images-nv.jpeg", "pred_label": "nv", "meta_probs_topk": [["nv", 0.982166857844678], ["mel", 0.013643974058705413], ["bkl", 0.0019363156525310323]], "tta": 2}
+{"user": "Varun K V", "timestamp": "2025-10-18T15:14:02.286374", "answers": {"age": 30, "sex": "male", "address": "Hassan", "when_found": "1week", "itches": "no"}, "image": "images-nv.jpeg", "pred_label": "nv"}
+{"timestamp": 1760858410.0676157, "filename": "images-nv.jpeg", "pred_label": "nv", "meta_probs_topk": [["nv", 0.982166857844678], ["mel", 0.013643974058705413], ["bkl", 0.0019363156525310323]], "tta": 2}
+{"timestamp": 1760858410.2086039, "filename": "images-nv.jpeg", "pred_label": "nv", "meta_probs_topk": [["nv", 0.9821676206004036], ["mel", 0.013642909999131444], ["bkl", 0.0019364434280120487]], "tta": 2}
+{"user": "Varun K V", "timestamp": "2025-10-19T07:20:10.211150", "answers": {"age": 30, "sex": "male", "address": "Hassan", "when_found": "1week", "itches": "no"}, "image": "images-nv.jpeg", "pred_label": "nv"}

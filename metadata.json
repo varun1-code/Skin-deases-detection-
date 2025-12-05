@@ -1,0 +1,38 @@
+{
+  "b0": {
+    "ckpt": "C:\\Varun\\skin-detect-mvp\\outputs\\finetune_best_epoch2_auc0.9565.pt",
+    "torchscript": "C:\\Varun\\skin-detect-mvp\\export\\model_b0.pt",
+    "image_size": 224,
+    "num_classes": 7
+  },
+  "b3": {
+    "ckpt": "C:\\Varun\\skin-detect-mvp\\outputs\\best_efficientnet_b3_epoch10_auc0.9713.pt",
+    "torchscript": "C:\\Varun\\skin-detect-mvp\\export\\model_b3.pt",
+    "image_size": 300,
+    "num_classes": 7
+  },
+  "resnet50": {
+    "ckpt": "C:\\Varun\\skin-detect-mvp\\outputs\\best_resnet50_epoch11_auc0.9665.pt",
+    "torchscript": "C:\\Varun\\skin-detect-mvp\\export\\model_resnet50.pt",
+    "image_size": 224,
+    "num_classes": 7
+  },
+  "thresholds": {
+    "akiec": 0.51,
+    "bcc": 0.53,
+    "bkl": 0.48,
+    "df": 0.39,
+    "mel": 0.49,
+    "nv": 0.18,
+    "vasc": 0.57
+  },
+  "class_names": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ]
+}
